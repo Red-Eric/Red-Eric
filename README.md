@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ANDRIAMBOAHARINIRINA and I'm a passionate developer, from Madagascar</p>
+<p align="left">My name is Redson Eric and I'm a passionate developer, from Madagascar</p>
 
 ###
 
