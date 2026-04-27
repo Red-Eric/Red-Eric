@@ -84,7 +84,6 @@ const RedEric = {
 
 <div align="center">
 
-*"The best mods are the ones no one thought were possible."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Red-Eric&style=flat-square&color=E05C5C&label=PROFILE+VIEWS)
 
