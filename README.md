@@ -45,16 +45,18 @@ const redEric = {
 
 <table width="100%">
   <tr>
-    <td colspan="2">
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Red-Eric&theme=radical" width="100%"/>
     </td>
   </tr>
   <tr>
-    <td width="65%" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api?username=Red-Eric&show_icons=true&theme=radical" width="100%" height="195" style="object-fit:cover;"/>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api?username=Red-Eric&show_icons=true&theme=radical" width="100%" height="195"/>
     </td>
-    <td width="35%" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Red-Eric&layout=compact&theme=radical" width="100%" height="195" style="object-fit:cover;"/>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Red-Eric&layout=compact&theme=radical" width="100%" height="195"/>
     </td>
   </tr>
 </table>
